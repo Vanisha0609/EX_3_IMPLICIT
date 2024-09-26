@@ -22,7 +22,7 @@ Registeration Number :
 ```
 
 ## OUTPUT
-
+![image](https://github.com/user-attachments/assets/9f60115f-1469-45e3-a074-d4df8e166125)
 
 
 
