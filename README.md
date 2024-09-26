@@ -48,7 +48,8 @@ XML FILE:
 </RelativeLayout>
 ```
 JAVA FILE:
-'''
+
+```
 package com.example.ex_3;
 
 import android.content.Intent;
@@ -80,7 +81,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-```
 ```
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/9f60115f-1469-45e3-a074-d4df8e166125)
